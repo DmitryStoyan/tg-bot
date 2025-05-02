@@ -9,3 +9,4 @@ Test commit
 - Update notes (2025-04-25 12:26:01)
 - Small improvement (2025-04-26 12:48:56)
 - Documentation update (2025-04-29 16:39:32)
+- Clarify section (2025-05-02 14:06:23)
