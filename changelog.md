@@ -12,3 +12,4 @@
 - Clarify section (2025-04-25 14:49:15)
 - Documentation update (2025-04-29 09:40:44)
 - Improve formatting (2025-05-02 10:08:05)
+- Add missing detail (2025-05-05 14:47:51)
