@@ -18,3 +18,4 @@
 - Fix typo (2025-05-12 18:49:36)
 - Fix typo (2025-05-13 19:02:43)
 - Refactor text (2025-05-20 15:47:58)
+- Documentation update (2025-05-22 13:14:53)
