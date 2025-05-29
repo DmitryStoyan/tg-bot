@@ -22,3 +22,4 @@
 - Documentation update (2025-05-20 15:23:49)
 - Improve formatting (2025-05-27 13:53:43)
 - Small improvement (2025-05-27 17:03:27)
+- Minor cleanup (2025-05-29 17:07:59)
