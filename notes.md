@@ -48,3 +48,4 @@ Test commit
 - Update TODO (2025-08-14 10:21:14)
 - Improve formatting (2025-06-25 09:10:46)
 - Documentation update (2025-05-25 15:37:16)
+- Clarify section (2025-06-08 09:45:18)
