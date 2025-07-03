@@ -37,3 +37,4 @@
 - Update notes (2025-07-01 21:10:33)
 - Documentation update (2025-07-01 18:30:46)
 - Refactor text (2025-07-03 22:59:26)
+- Clarify section (2025-07-03 11:00:59)
