@@ -30,3 +30,4 @@
 - Fix typo (2025-06-23 14:47:45)
 - Improve formatting (2025-06-24 12:44:37)
 - Small improvement (2025-07-07 16:15:14)
+- Documentation update (2025-07-08 13:49:01)
