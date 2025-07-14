@@ -32,3 +32,4 @@ Test commit
 - Clarify section (2025-07-03 10:05:26)
 - Update TODO (2025-07-11 14:25:28)
 - Small improvement (2025-07-14 10:39:20)
+- Add missing detail (2025-07-14 17:07:35)
