@@ -31,3 +31,4 @@
 - Improve formatting (2025-06-24 12:44:37)
 - Small improvement (2025-07-07 16:15:14)
 - Documentation update (2025-07-08 13:49:01)
+- Clarify section (2025-07-15 10:07:23)
