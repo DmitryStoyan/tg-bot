@@ -41,3 +41,4 @@
 - Improve formatting (2025-05-17 16:06:21)
 - Documentation update (2025-06-29 18:27:12)
 - Update TODO (2025-06-14 14:14:37)
+- Add missing detail (2025-07-19 14:07:05)
