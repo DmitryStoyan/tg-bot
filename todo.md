@@ -47,3 +47,4 @@
 - Minor cleanup (2025-07-22 16:19:17)
 - Update notes (2025-07-22 16:13:17)
 - Fix typo (2025-07-24 09:31:49)
+- Documentation update (2025-07-28 11:10:59)
