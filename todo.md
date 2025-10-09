@@ -68,3 +68,4 @@
 - Minor cleanup (2025-11-22 22:29:03)
 - Update TODO (2025-11-22 14:45:34)
 - Small improvement (2025-10-09 19:41:02)
+- Clarify section (2025-10-09 12:22:35)
