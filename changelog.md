@@ -48,3 +48,4 @@
 - Update notes (2025-09-07 16:02:38)
 - Fix typo (2025-10-05 19:13:50)
 - Improve formatting (2025-11-03 09:37:14)
+- Add missing detail (2025-11-05 22:05:40)
