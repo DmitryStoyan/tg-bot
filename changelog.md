@@ -50,3 +50,4 @@
 - Improve formatting (2025-11-03 09:37:14)
 - Add missing detail (2025-11-05 22:05:40)
 - Update TODO (2025-11-22 14:38:39)
+- Refactor text (2025-11-22 14:57:53)
