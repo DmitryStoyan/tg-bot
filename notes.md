@@ -53,3 +53,4 @@ Test commit
 - Small improvement (2025-07-01 13:47:37)
 - Minor cleanup (2025-08-17 12:46:29)
 - Small improvement (2025-10-05 20:12:25)
+- Clarify section (2025-11-22 16:52:46)
